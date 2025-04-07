@@ -5,4 +5,6 @@ export type Post = {
   slug: string;
   date: string;
   image?: string;
+  excerpt?: string;
+  tags?: string[];
 };
