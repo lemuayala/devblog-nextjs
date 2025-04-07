@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import '@fontsource/geist-sans';
+
+body {
+  font-family: 'Geist Sans', sans-serif;
+}
