@@ -31,7 +31,7 @@ export default function Home() {
               <h2 className="text-xl font-semibold mb-2">{post.title}</h2>
               <p className="text-emerald-400/80 text-sm mb-4">{post.date}</p>
               <button
-                className="relative inline-flex items-center justify-center px-6 py-2 font-medium text-white border border-white/10 rounded-lg transition-all duration-300 overflow-hidden
+                className="relative inline-flex items-center justify-center px-6 py-2 font-medium text-white border border-white/30 rounded-lg transition-all duration-300 overflow-hidden
   before:content-[''] before:absolute before:inset-0 before:rounded-lg before:bg-gradient-to-r before:from-blue-500 before:via-fuchsia-500 before:to-pink-500 before:blur-xl before:opacity-0 hover:before:opacity-40 before:transition-all before:duration-300"
               >
                 Leer más
